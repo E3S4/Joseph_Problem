@@ -1,2 +1,3 @@
-# F.O.E---Free-open-Effects
-A Free Video editing Software 
+# My Approach For This Recursive
+I tried Solving joseph's problem to test my 
+C++ skills 
